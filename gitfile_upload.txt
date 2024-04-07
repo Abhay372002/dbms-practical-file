@@ -1,0 +1,2 @@
+Upload files:
+Click on add file -> upload files -> upload existing -> commit changes
